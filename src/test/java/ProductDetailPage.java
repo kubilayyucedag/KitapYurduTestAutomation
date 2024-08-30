@@ -17,7 +17,7 @@ public class ProductDetailPage {
         driver.findElement(addToBasketLocator).click();
     }
 
-   //ÜRÜN FİYAT ALMA DA BURAYA EKLENEBİLİR!!!
+   //TODO:ÜRÜN FİYAT ALMA DA BURAYA EKLENEBİLİR
 
 
 }
